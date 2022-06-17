@@ -1,5 +1,5 @@
 #include<stdio.h>
 void fun1()
 {
-	printf("hello world! x3");
+	printf("hello world! x4");
 }
